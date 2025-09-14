@@ -19,4 +19,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to uuse,
 
 ## About Me
 
-Hi! I'm **Tom Gomez**, I'm a business analyst that's striving to progress his skills through skill-based projects. This project is based off the SQL Datawarehouse project from the YouTuber **Data with Baraa**. 
+Hi! I'm **Tom Gomez**, I'm a business analyst that's striving to progress his skills through skill-based projects. This project is based off the SQL Data Warehouse project from the YouTuber **Data with Baraa**. 
